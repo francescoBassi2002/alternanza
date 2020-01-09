@@ -1,6 +1,4 @@
-#Alternanza
-
-project:
+PROJECT:
 
 A game based on two levels:
 
