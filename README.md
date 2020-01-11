@@ -7,6 +7,6 @@ PROJECT:
 
 This is a first person game. The player is on a stage and he could move only left to right. You have eto fight againts sime blocks and after a run, reach a door and go to kill the boss. 
 
-You will use Emotiv (a helmet controlled by EEG impulses) to shoot the blocks, "w"/"a"/"s"/"d" keyboards to move the player left to right and Tobii(an eyetracking system) to look around and aim the blocks. 
+You will use Emotiv (a helmet controlled by EEG impulses) to shoot the blocks, "a"/"d" keyboards to move the player left to right and Tobii(an eyetracking system) to look around and aim the blocks. 
 
 
