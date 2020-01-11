@@ -9,4 +9,7 @@ This is a first person game. The player is on a stage and he could move only lef
 
 You will use Emotiv (a helmet controlled by EEG impulses) to shoot the blocks, "a"/"d" keyboards to move the player left to right and Tobii(an eyetracking system) to look around and aim the blocks. 
 
+We used Unity and Blender to design 3D models. We started from scratch to make everything...from the floor to the torches and the weapon. 
 
+
+_UNDER REVISION_
