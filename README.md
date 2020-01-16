@@ -10,8 +10,9 @@ This is allowed to us by the *_Tobii sensor_*. It's an eye tracker , so with it'
 To let the gamer shoot we are using the *_Emotiv headset_*(a helmet controlled by EEG impulses). This will read the brain impulses and convert them in electrical signals that we can assign to a specific keyboard key. 
 
 For the 3D models in the game we used Blender(an oper source software) to sculpt characters and object for the game. 
-And in the end to assemble all the things we used Unity(a cross-platform graphics engine) and code the in C#. 
-We got a little help in the codes by the Tobii Eyetracking Unity SDK Documentation (https://tobii.github.io/UnitySDK/manual#import-the-assets)
+And in the end to assemble all the things we used Unity(a cross-platform graphics engine) and code the in C#.
+
+We got a little help in the codes by the Tobii Eyetracking Unity SDK Documentation (https://tobii.github.io/UnitySDK/manual#import-the-assets). 
 
 
 
