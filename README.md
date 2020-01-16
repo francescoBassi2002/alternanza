@@ -1,7 +1,7 @@
 PROJECT:
 
 *A Unity game based on an "arcade game":*
-### Dodge the blocks and enemies to reach the final Boss.
+### Dodge the blocks and kill enemies.
 
 This is a first person game (FPP). 
 The map is divided in three parts\sections and the player moves continuously. He only stops to shoot the enemies. 
@@ -11,7 +11,6 @@ To let the gamer shoot we are using the *_Emotiv headset_*(a helmet controlled b
 
 For the 3D models in the game we used Blender(an oper source software) to sculpt characters and object for the game. 
 And in the end to assemble all the things we used Unity(a cross-platform graphics engine) and code the in C#.
- 
 
 
 _UNDER REVISION_
